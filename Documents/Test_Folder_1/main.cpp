@@ -24,8 +24,7 @@ int main(){
 
 
 		do{
-			prnMenu();
-			cin>>selectNumber;
+			//Deleted 'pinMenu(), cin>>selectNumber'
 			
 			switch(selectNumber){ 
 				case 1:
