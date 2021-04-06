@@ -19,9 +19,8 @@ int main(){
 						    
 		if(mode == 1)
 			p = new Stack<int>();    // 정수를 저장하는 스택
-			
-		else
-			p = new LinkedList<int>();
+
+		//Deleted 'else' here
 
 
 		do{
